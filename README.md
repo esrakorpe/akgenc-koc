@@ -71,7 +71,7 @@ Link: 🔗 Ak-Koç Chatbot (Streamlit)
 
 🏆 Katkıda Bulunanlar
 
-👨‍💻 Arda Emre Karabacak — Proje Geliştirici
+👨‍💻 Arda Emre Karabacak & Esra Körpe — Proje Geliştirici
 
 🤖 ChatGPT (asistan) — Teknik rehberlik ve mimari danışmanlık
 
