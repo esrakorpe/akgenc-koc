@@ -1,1 +1,0 @@
-Ekstre, kredi kartı dönemindeki harcamaları gösteren belgedir. Ödeme tarihi ekstre kesim tarihinden sonra belirlenir. Kazanılan Harçlık, kampanyalarla elde edilen bonus bakiyedir.
